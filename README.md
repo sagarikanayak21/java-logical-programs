@@ -76,4 +76,9 @@ Program 51: Create two List and add four elements to each List, match the 1st el
 Program 52: Add elements to the Map and retrieve those elements
 Program 53: Add Integer value to a List and display the square of those elements by using Iterator, forEach and lambda expression
 Program 54: Add Integer elements to a List and display even and odd numbers separately
-Program 55: 
+Program 55: Write a program to rearrange an Integer array and store the rearranged elements in such a way that the middle element will come first and
+            the array elements will move like an anti-click wise direction.
+Program 56: Find the second largest element of an array
+program 57: Reverse a List using Collections class predefined method
+Program 58: Write a program to reverse List elements without using any predefined method
+Program 59: 
